@@ -8,6 +8,7 @@ package main;
 /**
  *
  * @author Alaa elnaggar
+ pull request for omar
  */
 public class multiplicationseries implements ISubscriber{
     public void MultiplicationSeries(int number){
